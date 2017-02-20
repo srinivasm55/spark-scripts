@@ -1,0 +1,15 @@
+
+
+change directory to spark-1.6.3
+
+./bin/spark-shell       ### for scala shell
+
+./bin/pyspark           ### for python shell
+
+
+###############
+
+launching jupyter notebooks
+
+ipyhton notebook
+jupyter notebook

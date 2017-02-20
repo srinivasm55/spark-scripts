@@ -1,0 +1,51 @@
+
+
+git add
+
+git commit
+
+git push
+
+git branch MyBranch
+
+git checkout MyBranch
+
+git checkout master
+
+git merge MyBranch
+
+git mergetool 				// merge conflicts
+
+git stash
+
+git stashapply
+
+git remote					// to list all remote repositories
+
+git remote -v
+
+git fetch origin
+
+git pull origin				// fetch and merge
+
+git push origin master
+
+git remote add MyRepo http://github.com/somerepo.git
+
+rm -rf .git/
+
+git config --global user.name
+
+git config --global user.email
+
+git config --list
+
+
+
+
+
+
+
+github.com ---> create new repository
+				git init,add,commit,git remote add origin https://github.com/srinivasm55/git_test_new.git,git push -u origin master
+
